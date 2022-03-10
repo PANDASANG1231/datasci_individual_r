@@ -12,9 +12,9 @@ The data is processed using `src/data_cleaning.R` to mainly remove observations 
 
 ## Description of app
 
-The app has a single landing page which shows one plot. By default, the plot shows the distribution of data science salaries for all countries as a stacked histogram by formal education level. Two widgets are provided to specify the country to view data science salaries for, and to change how the histogram is stacked by.
+The app has a single landing page which shows one plot. By default, the plot shows the median salary salaries and a heatmap of the salary in data science industry. One widget are provided to specify the country to view data science salaries for.
 
 
 Default page            |  `Canada` and `Coding Experience`
 :-------------------------:|:-------------------------:
-![default](https://github.com/PANDA/datasci-salaries-dashboard-r/blob/main/media/dashboard-1.png)  |  ![canada](https://github.com/joshsia/datasci-salaries-dashboard-r/blob/main/media/dashboard-2.png)
+<img src="https://github.com/PANDASANG1231/datasci_individual_r/blob/master/media/dashboard.png" width=300> |  <img src="https://github.com/PANDASANG1231/datasci_individual_r/blob/master/media/dashboard_canada.png" width=300>
