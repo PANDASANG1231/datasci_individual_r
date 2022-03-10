@@ -15,6 +15,6 @@ The data is processed using `src/data_cleaning.R` to mainly remove observations 
 The app has a single landing page which shows one plot. By default, the plot shows the median salary salaries and a heatmap of the salary in data science industry. One widget are provided to specify the country to view data science salaries for.
 
 
-Default page            |  `Canada` and `Coding Experience`
+Default page            |  Canada`
 :-------------------------:|:-------------------------:
-<img src="https://github.com/PANDASANG1231/datasci_individual_r/blob/master/media/dashboard.png" width=300> |  <img src="https://github.com/PANDASANG1231/datasci_individual_r/blob/master/media/dashboard_canada.png" width=300>
+<img src="https://github.com/PANDASANG1231/datasci_individual_r/blob/master/media/dashboard.png" width=400> |  <img src="https://github.com/PANDASANG1231/datasci_individual_r/blob/master/media/dashboard_canada.png" width=400>
