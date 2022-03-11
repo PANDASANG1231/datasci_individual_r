@@ -2,7 +2,7 @@
 
 ## About
 
-A simple Dash-R app deployed on Heroku which shows the distribution of data science salaries for different countries. The dashboard can be found [here](https://dsci532-2022-ia2-joshsia.herokuapp.com/).
+A simple Dash-R app deployed on Heroku which shows the distribution of data science salaries for different countries. The dashboard can be found [here](https://datasci-r-wenjia-ia2.herokuapp.com/).
 
 ## Data
 
